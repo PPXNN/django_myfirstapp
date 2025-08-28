@@ -1,0 +1,8 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Virtual environment
+myvenv/
+
+# Django stuff
+db.sqlite3
